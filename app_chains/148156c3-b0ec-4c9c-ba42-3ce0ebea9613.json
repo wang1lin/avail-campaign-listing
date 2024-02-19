@@ -1,0 +1,9 @@
+
+{
+	"name": "raicoin",
+	"logo": "https://i.imgur.com/0KUHPnZ.png",
+	"rpc_url": "http://165.154.54.85:9944",
+	"explorer_url": "http://165.154.54.85:4000",
+	"metrics_endpoint": "http://165.154.54.85:9615/metrics",
+	"id": "148156c3-b0ec-4c9c-ba42-3ce0ebea9613"
+}
